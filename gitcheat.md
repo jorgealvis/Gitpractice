@@ -6,8 +6,8 @@
 Remembering Session 1
 
 git config global --user.name
-git config globla user.email
-git config --listtig
+git config global user.email
+git config --list
 git init
 git remote add origin
 git remote -v
