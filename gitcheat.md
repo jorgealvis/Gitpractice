@@ -14,6 +14,7 @@ git remote -v
 git status
 git status
 git log
+git reset
 git add .
 git commit -m
 git push origin master
